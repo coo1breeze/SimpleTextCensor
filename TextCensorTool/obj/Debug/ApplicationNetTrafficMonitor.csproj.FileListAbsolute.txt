@@ -1,0 +1,10 @@
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\obj\Debug\ApplicationNetTrafficMonitor.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\obj\Debug\ApplicationNetTrafficMonitor.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\obj\Debug\ApplicationNetTrafficMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\obj\Debug\TextCensorTool.Form1.resources
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\bin\Debug\TextCensorTool.exe.config
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\bin\Debug\TextCensorTool.exe
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\bin\Debug\TextCensorTool.pdb
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\obj\Debug\TextCensorTool.Properties.Resources.resources
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\obj\Debug\TextCensorTool.exe
+C:\Users\Paul\source\repos\ApplicationNetTrafficMonitor\ApplicationNetTrafficMonitor\obj\Debug\TextCensorTool.pdb

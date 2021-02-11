@@ -1,0 +1,10 @@
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\bin\Debug\TextCensorTool.exe.config
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\bin\Debug\TextCensorTool.exe
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\bin\Debug\TextCensorTool.pdb
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\obj\Debug\TextCensorTool.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\obj\Debug\TextCensorTool.Form1.resources
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\obj\Debug\TextCensorTool.Properties.Resources.resources
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\obj\Debug\TextCensorTool.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\obj\Debug\TextCensorTool.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\obj\Debug\TextCensorTool.exe
+C:\Users\Paul\source\repos\TextCensorTool\TextCensorTool\obj\Debug\TextCensorTool.pdb
